@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353600820655",
+    "project_id": "stay-looped",
+    "storage_bucket": "stay-looped.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353600820655:android:ff27a01415e1b4d5358b5a",
+        "android_client_info": {
+          "package_name": "com.looped"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMZWirHBpDWpMQJCZx_00KawyUo3f8Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
